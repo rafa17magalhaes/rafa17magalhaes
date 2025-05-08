@@ -1,7 +1,12 @@
 <!-- Banner -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/rafa17magalhaes/rafa17magalhaes/banner.png" alt="Banner RM Traceability"/>
+  <img
+    src="https://raw.githubusercontent.com/rafa17magalhaes/rafa17magalhaes/main/banner.png"
+    alt="Banner RM Traceability"
+    width="800"
+  />
 </p>
+
 
 # 👋 Olá, eu sou Rafael Magalhães  
 **Full-Stack Developer** apaixonado por criar soluções SaaS escaláveis com DDD e IA.
