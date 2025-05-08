@@ -37,31 +37,15 @@
 
 ## 📈 Estatísticas & Conquistas  
 <p align="center">
-  <!-- GitHub Stats -->
-  <img
-    height="160"
-    src="https://github-readme-stats.vercel.app/api?username=rafa17magalhaes&show_icons=true&theme=dark&count_private=true&include_all_commits=true"
-    alt="GitHub Stats" />
-
-  <!-- Top Languages (destaca TS, exclui o chat) -->
-  <img
-    height="160"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=rafa17magalhaes&layout=compact&theme=dark&count_private=true&include_all_commits=true&exclude_repo=rafa17magalhaes/rm-traceability-chat"
-    alt="Top Langs" />
+  <!-- Stats e Top Langs lado a lado -->
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rafa17magalhaes&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafa17magalhaes&layout=compact&theme=dark&count_private=true&include_all_commits=true&exclude_repo=rafa17magalhaes/rm-traceability-chat" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <!-- GitHub Streak -->
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=rafa17magalhaes&theme=dark"
-    alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <!-- Contributions Calendar (ghchart.rshah.org) -->
-  <img
-    src="https://ghchart.rshah.org/rafa17magalhaes"
-    alt="Contributions Calendar" />
+  <!-- Streak e Calendar lado a lado -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafa17magalhaes&theme=dark" alt="GitHub Streak" />
+  <img src="https://ghchart.rshah.org/rafa17magalhaes" alt="Contributions Calendar" />
 </p>
 
 ---
@@ -77,6 +61,21 @@
 | **rm-traceability-front**      | React · React Native · TypeScript · AWS S3     | https://github.com/rafa17magalhaes/rm-traceability-front |
 | **rm-traceability-backend**    | NestJS · Node.js · PostgreSQL · Docker         | https://github.com/rafa17magalhaes/rm-traceability-backend |
 | **rm-traceability-chat**       | Python · FastAPI · GPT4All                     | https://github.com/rafa17magalhaes/rm-traceability-chat |
+
+---
+
+## 🤖 IA Chat & Machine Learning
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rafa17magalhaes/rafa17magalhaes/main/ia-chat.png" alt="Interface do Chat IA" width="500" />
+</p>
+
+Este microserviço de chat utiliza **FastAPI** e o modelo **GPT4All** para fornecer respostas automatizadas contextuais.  
+Ele emprega técnicas de **Machine Learning** para:
+
+- Extrair intenções de produtos e dados de estoque
+- Gerar fluxos de conversação dinâmicos
+- Auxiliar no rastreamento em tempo real de movimentações
 
 ---
 
