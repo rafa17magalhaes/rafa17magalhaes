@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rafa17magalhaes/rafa17magalhaes/main/banner.png" alt="Banner RM Traceability" width="800"/>
+<img src="https://raw.githubusercontent.com/rafa17magalhaes/rafa17magalhaes/banner.png" alt="Banner RM Traceability"/>
 </p>
 
 # 👋 Olá, eu sou Rafael Magalhães  
@@ -19,9 +19,16 @@
 </p>
 
 ### 📂 Projetos em destaque
-- [rm-traceability-front](https://github.com/rafa17magalhaes/rm-traceability-front) – SaaS React + DDD + AWS S3  
-- [rm-traceability-backend](https://github.com/rafa17magalhaes/rm-traceability-backend) – NestJS, PostgreSQL, Docker  
-- [rm-traceability-chat](https://github.com/rafa17magalhaes/rm-traceability-chat) – Python, FastAPI, GPT4All  
+
+- [rm-traceability-front](https://github.com/rafa17magalhaes/rm-traceability-front)  
+  Frontend SaaS em **TypeScript**, React, React Native e AWS S3.
+
+- [rm-traceability-backend](https://github.com/rafa17magalhaes/rm-traceability-backend)  
+  Backend em **TypeScript**, NestJS, Node.js, PostgreSQL e Docker.
+
+- [rm-traceability-chat](https://github.com/rafa17magalhaes/rm-traceability-chat)  
+  Microserviço em **Python**, FastAPI e GPT4All para assistente IA.
+
 
 ### 📫 Contato
 [LinkedIn](linkedin.com/in/rafael-magalhães-844759216) • rafa7magalhaes@outlook.com
