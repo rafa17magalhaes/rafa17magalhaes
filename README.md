@@ -1,7 +1,7 @@
 <!-- Banner Section -->
 <p align="center">
   <!-- Logo + Tagline -->  
-  <img src="https://raw.githubusercontent.com/rafa17magalhaes/rafa17magalhaes/main/logo-tagline.png" alt="RM Traceability - SaaS • DDD • IA • QR Code" width="200" />
+  <img src="https://raw.githubusercontent.com/rafa17magalhaes/rafa17magalhaes/main/logo-tagline.png" alt="RM Traceability - SaaS • DDD • IA • QR Code" width="300" />
   <br/><br/>
 </p>
 
@@ -10,7 +10,7 @@
 
 ### 🚀 Skills  
 **Front-end:** React • React Native • TypeScript  
-**Back-end:** NestJS • Node.js • Python (FastAPI) • Java  
+**Back-end:** TypeScript • NestJS • Node.js • Python (FastAPI) • Java  
 **Infra & DevOps:** Docker • AWS (S3, Lambda) • CI/CD  
 **Qualidade:** Jest • Cypress • DDD • GitHub Actions
 
