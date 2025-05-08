@@ -67,7 +67,8 @@
 ## 🤖 IA Chat & Machine Learning
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rafa17magalhaes/rafa17magalhaes/main/ia-chat.png" alt="Interface do Chat IA" width="500" />
+  <img src="https://raw.githubusercontent.com/rafa17magalhaes/rafa17magalhaes/main/ia-chat.png" alt="Interface do Chat IA" width="300" />
+    <img src="https://raw.githubusercontent.com/rafa17magalhaes/rafa17magalhaes/main/ia-mini-chat.png" alt="Interface do Mini Chat IA" width="300" />
 </p>
 
 Este microserviço de chat utiliza **FastAPI** e o modelo **GPT4All** para fornecer respostas automatizadas contextuais.  
