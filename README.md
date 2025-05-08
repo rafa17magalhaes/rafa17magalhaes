@@ -55,6 +55,11 @@
 
 ## 🚀 Projetos em Destaque
 
+<p>
+  <!-- Dashboard Screenshot -->
+  <img src="https://raw.githubusercontent.com/rafa17magalhaes/rafa17magalhaes/main/banner.png" alt="Painel de Serviços RM Traceability" width="300" />
+</p>
+
 | Projeto                        | Tech Stack                                    | Link                                            |
 | -----------------------------: | :--------------------------------------------- | :---------------------------------------------- |
 | **rm-traceability-front**      | React · React Native · TypeScript · AWS S3     | https://github.com/rafa17magalhaes/rm-traceability-front |
