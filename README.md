@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/rafa17magalhaes/rafa17magalhaes/main/logo-tagline.png" alt="RM Traceability - SaaS • DDD • IA • QR Code" width="600" />
   <br/><br/>
   <!-- Dashboard Screenshot -->
-  <img src="https://raw.githubusercontent.com/rafa17magalhaes/rafa17magalhaes/main/dashboard-screenshot.png" alt="Painel de Serviços RM Traceability" width="800" />
+  <img src="https://raw.githubusercontent.com/rafa17magalhaes/rafa17magalhaes/main/banner.png" alt="Painel de Serviços RM Traceability" width="800" />
 </p>
 
 # 👋 Olá, eu sou Rafael Magalhães  
