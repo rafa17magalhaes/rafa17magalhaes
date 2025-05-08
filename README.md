@@ -37,13 +37,11 @@
 
 ## 📈 Estatísticas & Conquistas  
 <p align="center">
-  <!-- Stats e Top Langs lado a lado -->
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=rafa17magalhaes&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafa17magalhaes&layout=compact&theme=dark&count_private=true&include_all_commits=true&exclude_repo=rafa17magalhaes/rm-traceability-chat" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <!-- Streak e Calendar lado a lado -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafa17magalhaes&theme=dark" alt="GitHub Streak" />
   <img src="https://ghchart.rshah.org/rafa17magalhaes" alt="Contributions Calendar" />
 </p>
@@ -66,17 +64,17 @@
 
 ## 🤖 IA Chat & Machine Learning
 
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/rafa17magalhaes/rafa17magalhaes/main/ia-chat.png" alt="Interface do Chat IA" width="300" />
-    <img src="https://raw.githubusercontent.com/rafa17magalhaes/rafa17magalhaes/main/ia-mini-chat.png" alt="Interface do Mini Chat IA" width="300" />
-</p>
+  <img src="https://raw.githubusercontent.com/rafa17magalhaes/rafa17magalhaes/main/ia-mini-chat.png" alt="Interface do Mini Chat IA" width="300" />
+</div>
 
 Este microserviço de chat utiliza **FastAPI** e o modelo **GPT4All** para fornecer respostas automatizadas contextuais.  
 Ele emprega técnicas de **Machine Learning** para:
 
-- Extrair intenções de produtos e dados de estoque
-- Gerar fluxos de conversação dinâmicos
-- Auxiliar no rastreamento em tempo real de movimentações
+- Extrair intenções de produtos e dados de estoque  
+- Gerar fluxos de conversação dinâmicos  
+- Auxiliar no rastreamento em tempo real de movimentações  
 
 ---
 
