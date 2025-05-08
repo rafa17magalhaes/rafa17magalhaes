@@ -1,26 +1,25 @@
-```markdown
-<!-- Banner -->
+<!-- Banner Section -->
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/rafa17magalhaes/rafa17magalhaes/main/banner.png"
-    alt="Banner RM Traceability"
-    width="800"
-  />
+  <!-- Logo + Tagline -->  
+  <img src="https://raw.githubusercontent.com/rafa17magalhaes/rafa17magalhaes/main/logo-tagline.png" alt="RM Traceability - SaaS • DDD • IA • QR Code" width="600" />
+  <br/><br/>
+  <!-- Dashboard Screenshot -->
+  <img src="https://raw.githubusercontent.com/rafa17magalhaes/rafa17magalhaes/main/dashboard-screenshot.png" alt="Painel de Serviços RM Traceability" width="800" />
 </p>
 
 # 👋 Olá, eu sou Rafael Magalhães  
 **Full-Stack Developer** apaixonado por criar soluções SaaS escaláveis com DDD e IA.
 
-### 🚀 Skills
+### 🚀 Skills  
 **Front-end:** React • React Native • TypeScript  
 **Back-end:** NestJS • Node.js • Python (FastAPI) • Java  
 **Infra & DevOps:** Docker • AWS (S3, Lambda) • CI/CD  
 **Qualidade:** Jest • Cypress • DDD • GitHub Actions
 
-### 📈 Estatísticas
+### 📈 Estatísticas  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafa17magalhaes&show_icons=true&theme=dark"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafa17magalhaes&layout=compact&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rafa17magalhaes&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafa17magalhaes&layout=compact&theme=dark" />
 </p>
 
 ### 📂 Projetos em destaque
@@ -34,6 +33,5 @@
 - [rm-traceability-chat](https://github.com/rafa17magalhaes/rm-traceability-chat)  
   Microserviço em **Python**, FastAPI e GPT4All para assistente IA.
 
-### 📫 Contato
+### 📫 Contato  
 [LinkedIn](https://www.linkedin.com/in/rafael-magalhães-844759216) • rafa7magalhaes@outlook.com
-```
