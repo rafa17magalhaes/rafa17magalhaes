@@ -1,39 +1,71 @@
-<!-- Banner Section -->
+<!-- Banner -->
 <p align="center">
-  <!-- Logo + Tagline -->  
-  <img src="https://raw.githubusercontent.com/rafa17magalhaes/rafa17magalhaes/main/logo-tagline.png" alt="RM Traceability - SaaS • DDD • IA • QR Code" width="300" />
-  <br/><br/>
+  <img src="https://raw.githubusercontent.com/rafa17magalhaes/rafa17magalhaes/main/logo-tagline.png" alt="RM Traceability" width="300" />
 </p>
 
-# 👋 Olá, eu sou Rafael Magalhães  
-**Full-Stack Developer** apaixonado por criar soluções escaláveis.
-
-### 🚀 Skills  
-**Front-end:** React • React Native • TypeScript  
-**Back-end:** TypeScript • NestJS • Node.js • Python (FastAPI) • Java  
-**Infra & DevOps:** Docker • AWS (S3, Lambda) • CI/CD  
-**Qualidade:** Jest • Cypress • DDD • GitHub Actions
-
-### 📈 Estatísticas  
+<h1 align="center">👋 Olá, eu sou Rafael Magalhaes</h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafa17magalhaes&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafa17magalhaes&layout=compact&theme=dark" />
+  <strong>Full-Stack Developer</strong> apaixonado por criar soluções escaláveis.
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rafael-magalhães-844759216">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:rafa7magalhaes@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/rafa17magalhaes">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
-### 📂 Projetos em destaque
-<p>
-  <!-- Dashboard Screenshot -->
-  <img src="https://raw.githubusercontent.com/rafa17magalhaes/rafa17magalhaes/main/banner.png" alt="Painel de Serviços RM Traceability" width="300" />
+---
+
+## 🛠 Tecnologias & Ferramentas  
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Cypress-04B38F?style=flat&logo=cypress&logoColor=white"/>  
 </p>
 
-- [rm-traceability-front](https://github.com/rafa17magalhaes/rm-traceability-front)  
-  Frontend SaaS em **TypeScript**, React, React Native e AWS S3.
+---
 
-- [rm-traceability-backend](https://github.com/rafa17magalhaes/rm-traceability-backend)  
-  Backend em **TypeScript**, NestJS, Node.js, PostgreSQL e Docker.
+## 📈 Estatísticas & Conquistas  
+<p align="center">
+  <!-- Card de commits, PRs, issues, etc. -->
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rafa17magalhaes&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats"/>
+  <!-- Gráfico de linguagens -->
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafa17magalhaes&layout=compact&theme=dark" alt="Top Langs"/>
+</p>
+<p align="center">
+  <!-- Streak de contribuições -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafa17magalhaes&theme=dark" alt="GitHub Streak"/>
+</p>
+<p align="center">
+  <!-- Calendário de contribuições -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=rafa17magalhaes&theme=github-dark&area=true" width="100%" alt="Contributions Graph"/>
+</p>
 
-- [rm-traceability-chat](https://github.com/rafa17magalhaes/rm-traceability-chat)  
-  Microserviço em **Python**, FastAPI e GPT4All para assistente IA.
+---
 
-### 📫 Contato  
-[LinkedIn](https://www.linkedin.com/in/rafael-magalhães-844759216) • rafa7magalhaes@outlook.com
+## 🚀 Projetos em Destaque
+
+| Projeto                        | Tech Stack                                    | Link                                            |
+| -----------------------------: | :--------------------------------------------- | :---------------------------------------------- |
+| **rm-traceability-front**      | React · React Native · TypeScript · AWS S3     | https://github.com/rafa17magalhaes/rm-traceability-front |
+| **rm-traceability-backend**    | NestJS · Node.js · PostgreSQL · Docker         | https://github.com/rafa17magalhaes/rm-traceability-backend |
+| **rm-traceability-chat**       | Python · FastAPI · GPT4All                     | https://github.com/rafa17magalhaes/rm-traceability-chat |
+
+---
+
+### 📫 Como me encontrar
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rafael-magalhães-844759216">LinkedIn</a> •  
+  ✉️ rafa7magalhaes@outlook.com  
+</p>
