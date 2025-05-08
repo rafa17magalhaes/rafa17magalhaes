@@ -24,4 +24,4 @@
 - [rm-traceability-chat](https://github.com/rafa17magalhaes/rm-traceability-chat) – Python, FastAPI, GPT4All  
 
 ### 📫 Contato
-[LinkedIn](https://www.linkedin.com/in/rafa17magalhaes) • rafa7magalhaes@outlook.com
+[LinkedIn](linkedin.com/in/rafael-magalhães-844759216) • rafa7magalhaes@outlook.com
