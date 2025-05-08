@@ -43,7 +43,7 @@
     src="https://github-readme-stats.vercel.app/api?username=rafa17magalhaes&show_icons=true&theme=dark&count_private=true&include_all_commits=true"
     alt="GitHub Stats" />
 
-  <!-- Top Languages (exclui o repo de chat para destacar TS) -->
+  <!-- Top Languages (destaca TS, exclui o chat) -->
   <img
     height="160"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=rafa17magalhaes&layout=compact&theme=dark&count_private=true&include_all_commits=true&exclude_repo=rafa17magalhaes/rm-traceability-chat"
@@ -58,11 +58,10 @@
 </p>
 
 <p align="center">
-  <!-- Contribution Graph -->
+  <!-- Contributions Calendar (ghchart.rshah.org) -->
   <img
-    width="100%"
-    src="https://activity-graph.herokuapp.com/graph?username=rafa17magalhaes&theme=github-dark&area=true"
-    alt="Contributions Graph" />
+    src="https://ghchart.rshah.org/rafa17magalhaes"
+    alt="Contributions Calendar" />
 </p>
 
 ---
