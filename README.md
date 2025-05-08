@@ -37,17 +37,33 @@
 
 ## 📈 Estatísticas & Conquistas  
 <p align="center">
-  <!-- Card de commits, PRs, issues, etc. -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rafa17magalhaes&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats"/>
-  <!-- Gráfico de linguagens -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafa17magalhaes&layout=compact&theme=dark" alt="Top Langs"/>
+  <!-- Card geral de commits, PRs, issues, etc. -->
+  <img 
+    height="160" 
+    src="https://github-readme-stats.vercel.app/api?username=rafa17magalhaes
+    &show_icons=true
+    &theme=dark
+    &count_private=true
+    &include_all_commits=true" 
+    alt="GitHub Stats"/>
+
+  <!-- Gráfico de linguagens ajustado para mostrar melhor TS -->
+  <img 
+    height="160" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafa17magalhaes
+    &layout=compact
+    &theme=dark
+    &count_private=true
+    &include_all_commits=true
+    &exclude_repo=rafa17magalhaes/rm-traceability-chat" 
+    alt="Top Langs"/>
 </p>
 <p align="center">
-  <!-- Streak de contribuições -->
+  <!-- Current Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafa17magalhaes&theme=dark" alt="GitHub Streak"/>
 </p>
 <p align="center">
-  <!-- Calendário de contribuições -->
+  <!-- Contribution Graph -->
   <img src="https://activity-graph.herokuapp.com/graph?username=rafa17magalhaes&theme=github-dark&area=true" width="100%" alt="Contributions Graph"/>
 </p>
 
