@@ -51,7 +51,7 @@
 ## 🚀 Projetos em Destaque
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rafa17magalhaes/rafa17magalhaes/main/banner.png" alt="Painel de Serviços RM Traceability" width="400" />
+  <img src="https://raw.githubusercontent.com/rafa17magalhaes/rafa17magalhaes/main/banner.png" alt="Painel de Serviços RM Traceability" width="500" />
 </p>
 
 | Projeto                        | Tech Stack                                    | Link                                            |
@@ -66,7 +66,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/rafa17magalhaes/rafa17magalhaes/main/ia-chat.png" alt="Interface do Chat IA" width="350" />
-  <img src="https://raw.githubusercontent.com/rafa17magalhaes/rafa17magalhaes/main/ia-mini-chat.png" alt="Interface do Mini Chat IA" width="400" />
+  <img src="https://raw.githubusercontent.com/rafa17magalhaes/rafa17magalhaes/main/ia-mini-chat.png" alt="Interface do Mini Chat IA" width="450" />
 </div>
 
 Este microserviço de chat utiliza **FastAPI** e o modelo **GPT4All** para fornecer respostas automatizadas contextuais.  
