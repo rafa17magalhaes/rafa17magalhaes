@@ -1,3 +1,4 @@
+```markdown
 <!-- Banner -->
 <p align="center">
   <img
@@ -6,7 +7,6 @@
     width="800"
   />
 </p>
-
 
 # 👋 Olá, eu sou Rafael Magalhães  
 **Full-Stack Developer** apaixonado por criar soluções SaaS escaláveis com DDD e IA.
@@ -34,6 +34,6 @@
 - [rm-traceability-chat](https://github.com/rafa17magalhaes/rm-traceability-chat)  
   Microserviço em **Python**, FastAPI e GPT4All para assistente IA.
 
-
 ### 📫 Contato
-[LinkedIn](linkedin.com/in/rafael-magalhães-844759216) • rafa7magalhaes@outlook.com
+[LinkedIn](https://www.linkedin.com/in/rafael-magalhães-844759216) • rafa7magalhaes@outlook.com
+```
