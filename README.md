@@ -6,7 +6,7 @@
 </p>
 
 # 👋 Olá, eu sou Rafael Magalhães  
-**Full-Stack Developer** apaixonado por criar soluções SaaS escaláveis com DDD e IA.
+**Full-Stack Developer** apaixonado por criar soluções escaláveis.
 
 ### 🚀 Skills  
 **Front-end:** React • React Native • TypeScript  
