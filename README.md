@@ -37,42 +37,39 @@
 
 ## 📈 Estatísticas & Conquistas  
 <p align="center">
-  <!-- Card geral de commits, PRs, issues, etc. -->
-  <img 
-    height="160" 
-    src="https://github-readme-stats.vercel.app/api?username=rafa17magalhaes
-    &show_icons=true
-    &theme=dark
-    &count_private=true
-    &include_all_commits=true" 
-    alt="GitHub Stats"/>
+  <!-- GitHub Stats -->
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api?username=rafa17magalhaes&show_icons=true&theme=dark&count_private=true&include_all_commits=true"
+    alt="GitHub Stats" />
 
-  <!-- Gráfico de linguagens ajustado para mostrar melhor TS -->
-  <img 
-    height="160" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafa17magalhaes
-    &layout=compact
-    &theme=dark
-    &count_private=true
-    &include_all_commits=true
-    &exclude_repo=rafa17magalhaes/rm-traceability-chat" 
-    alt="Top Langs"/>
+  <!-- Top Languages (exclui o repo de chat para destacar TS) -->
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=rafa17magalhaes&layout=compact&theme=dark&count_private=true&include_all_commits=true&exclude_repo=rafa17magalhaes/rm-traceability-chat"
+    alt="Top Langs" />
 </p>
+
 <p align="center">
-  <!-- Current Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafa17magalhaes&theme=dark" alt="GitHub Streak"/>
+  <!-- GitHub Streak -->
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=rafa17magalhaes&theme=dark"
+    alt="GitHub Streak" />
 </p>
+
 <p align="center">
   <!-- Contribution Graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=rafa17magalhaes&theme=github-dark&area=true" width="100%" alt="Contributions Graph"/>
+  <img
+    width="100%"
+    src="https://activity-graph.herokuapp.com/graph?username=rafa17magalhaes&theme=github-dark&area=true"
+    alt="Contributions Graph" />
 </p>
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-<p>
-  <!-- Dashboard Screenshot -->
+<p align="center">
   <img src="https://raw.githubusercontent.com/rafa17magalhaes/rafa17magalhaes/main/banner.png" alt="Painel de Serviços RM Traceability" width="300" />
 </p>
 
